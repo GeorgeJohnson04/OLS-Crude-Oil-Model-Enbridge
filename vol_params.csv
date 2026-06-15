@@ -1,0 +1,3 @@
+crude,model,omega,alpha,beta,gamma,persistence,uncond_sigma_monthly_pct,uncond_sigma_ann_pct,end_history_sigma_pct,forecast_end_sigma_pct,LL,BIC,n_obs
+Light,"GJR-GARCH(1,1)",47.4221,0.063,0.033,0.6216,0.4068,8.941,30.97,10.868,8.709,-985.19,2004.17,279
+Heavy,"GJR-GARCH(1,1)",30.51219,0.1881,0.3175,0.5435,0.7774,11.707,40.56,7.193,14.54,-1022.98,2079.73,278

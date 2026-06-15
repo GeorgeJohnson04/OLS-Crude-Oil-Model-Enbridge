@@ -1,0 +1,16 @@
+crude,model,n,RMSE_$/bbl,MAE_$/bbl,MAPE_%,DA_%,Theil_U
+Light,random_walk,34,4.409,3.743,4.99,0.0,1.0
+Light,ar1,34,4.484,3.875,5.23,44.1,1.017
+Light,ar1_returns,34,4.404,3.691,4.9,61.8,0.999
+Light,seasonal_naive,34,17.105,13.091,18.46,41.2,3.88
+Light,levels_model,34,6.954,5.554,7.51,52.9,1.577
+Light,returns_model,34,6.067,4.922,6.62,44.1,1.376
+Heavy,random_walk,35,3.93,3.332,5.24,0.0,1.0
+Heavy,ar1,35,3.929,3.337,5.28,51.4,1.0
+Heavy,ar1_returns,35,3.882,3.269,5.1,57.1,0.988
+Heavy,seasonal_naive,35,16.926,12.645,20.84,45.7,4.307
+Heavy,levels_model,35,7.217,5.323,8.36,65.7,1.837
+Heavy,returns_model,35,6.557,5.268,8.31,45.7,1.669
+WCS-WTI,persistence,35,1.067,0.813,7.28,0.0,1.0
+WCS-WTI,rolling_12m_mean,35,1.365,1.161,10.67,60.0,1.28
+WCS-WTI,differential_model,35,1.165,0.861,7.71,62.9,1.092
